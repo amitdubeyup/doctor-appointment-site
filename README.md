@@ -1,4 +1,4 @@
-# seeadoc-website
+# doctor-appointment-site
 
 A seeadoc-website project
 
@@ -10,8 +10,8 @@ A seeadoc-website project
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/seeadoc-website.git
-cd seeadoc-website
+git clone https://github.com/amitdubeyup/doctor-appointment-site.git
+cd doctor-appointment-site
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-seeadoc-website/
+doctor-appointment-site/
 ├── .env.example
 ├── README.md
 ```
